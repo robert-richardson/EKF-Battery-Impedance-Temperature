@@ -32,7 +32,7 @@ Installation
 ##Option 1 - Downloading a .zip file##
 Download a .zip file of the code at:
 
-[https://github.com/robert-richardson/EKF-Impedance-1D-Temperature/archive/master.zip][5]
+[https://github.com/robert-richardson/EKF-Battery-Impedance-Temperature/archive/master.zip][5]
 
 Then, unzip the folder in a chosen directory on your computer.
 
@@ -41,7 +41,7 @@ To clone the repository, you will first need to have [Git][6] installed on
 your computer. Then, navigate to the directory where you want to clone the 
 repository in a terminal, and type:
 ```
-git clone https://github.com/robert-richardson/EKF-Impedance-1D-Temperature.git
+git clone https://github.com/robert-richardson/EKF-Battery-Impedance-Temperature.git
 ```
 The folder containing all the files should appear in your chosen directory.
 
@@ -66,7 +66,7 @@ please read the `LICENSE.txt` file for more information.
 [2]: http://arxiv.org/abs/1501.06160
 [3]: http://users.ox.ac.uk/~engs1053/
 [4]: http://epg.eng.ox.ac.uk/
-[5]: https://github.com/robert-richardson/EKF-Impedance-1D-Temperature/archive/master.zip
+[5]: https://github.com/robert-richardson/EKF-Battery-Impedance-Temperature/archive/master.zip
 [6]: https://git-scm.com/
 
 
