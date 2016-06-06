@@ -1,7 +1,7 @@
 Temperature Estimation using an EKF with Impedance Measurements
 ===============================================================
 
-<img src="Temperature Estimation using Impedance with Matlab - Github/Figures/GraphicalAbstract.png" width="400">
+<img src="Temperature Estimation using Impedance with Matlab - Github/Figures/GraphicalAbstract.png" width="400" align="right">
 
 This repository contains the Matlab source code to implement an Dual Extended Kalman Filter (DEKF) for battery temperature monitoring using single frequency impedance measurements and a 1-D thermal model.
 
