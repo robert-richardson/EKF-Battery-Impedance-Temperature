@@ -52,7 +52,7 @@ Getting started
 Execution of the [MainScript.m](Temperature Estimation using Impedance with Matlab - Github/MainScript.m) file runs the simulation.
 The simulation comprises a Dual Extended Kalman Filter for estimation of battery internal temperature distribution with unknown  convection coefficient using single frequency Electrochemical Impedance Spectroscopy (EIS) measurements as measurement input. A 3500 sec drive cycle is simulated, and the estimated core and surface temperatures are compared with 'ground truth' thermocouple measurements. The experimental data was obtained using a 26650 A123 lithium iron phosphate cell.
 
-The MainScript file can also be read using Matlab Publish (rather than simply running the file) to generate a PDF or html file summarizing the file code and outputs. A published pdf resulting from this process is already available in the html subfolder.
+The MainScript file can also be read using Matlab Publish (rather than simply running the file) to generate a PDF or html file summarizing the file code and outputs. A published pdf resulting from this process is already available in the [html](Temperature Estimation using Impedance with Matlab - Github/html) subfolder.
 
 
 License
